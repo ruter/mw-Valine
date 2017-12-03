@@ -58,3 +58,5 @@ function vaSkinAfterContent(&$data, &$skin) {
         </script>';
      return true;
 }
+
+?>
